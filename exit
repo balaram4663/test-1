@@ -1,0 +1,41 @@
+[33mcommit 3cc48ed55f2e43eacb389c82d0343deda5284d37[m[33m ([m[1;36mHEAD -> [m[1;32mmultipication[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: edd9582 6dee0e4
+Author: balaram4663 <149562931+balaram4663@users.noreply.github.com>
+Date:   Wed Nov 1 16:51:51 2023 +0530
+
+    Merge pull request #2 from balaram4663/substraction
+    
+    subtract
+
+[33mcommit 6dee0e4b3727e083532e674a3791d6085d92c80d[m[33m ([m[1;31morigin/substraction[m[33m)[m
+Author: balaram <balaram4663@gmail.com>
+Date:   Wed Nov 1 16:47:31 2023 +0530
+
+    subtract
+
+[33mcommit edd95820d7a79cf53399d38fdecee8bfb80dcdc1[m
+Merge: ba518dd b98350d
+Author: balaram4663 <149562931+balaram4663@users.noreply.github.com>
+Date:   Wed Nov 1 16:13:02 2023 +0530
+
+    Merge pull request #1 from balaram4663/feature/adition
+    
+    addition
+
+[33mcommit b98350dcc136f7894e54e6cd0df97da0e323782c[m[33m ([m[1;31morigin/feature/adition[m[33m)[m
+Author: balaram <balaram4663@gmail.com>
+Date:   Wed Nov 1 15:48:50 2023 +0530
+
+    addition
+
+[33mcommit ba518ddd73db9bda12bd1498307f23235d516a83[m
+Author: balaram4663 <149562931+balaram4663@users.noreply.github.com>
+Date:   Wed Nov 1 12:41:51 2023 +0530
+
+    Update README.md
+
+[33mcommit ec0055c07a8650da41c13f097f8ca126119ada77[m
+Author: balaram4663 <149562931+balaram4663@users.noreply.github.com>
+Date:   Wed Nov 1 11:59:03 2023 +0530
+
+    Initial commit
